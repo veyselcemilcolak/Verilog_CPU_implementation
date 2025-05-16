@@ -1,6 +1,6 @@
 # Verilog CPU implementation
 
-CPU implementation on Verilog as EE540 Advanced Digital Design Homework with Ali Taylan Yagmurcu and Yakup Erdem Yıldız.
+CPU implementation on Verilog as EE540 Advanced Digital Design Homework with @alitaylanyagmurcu and @yakuperdemyildiz
 
 You can run tb_uP_instmem.v for simulation
 
