@@ -4,4 +4,4 @@ CPU implementation on Verilog as EE540 Advanced Digital Design Homework with Ali
 
 You can run tb_uP_instmem.v for simulation
 
-For explanation, the HW report is attached.
+For explanation, the HW report is attached, readme file is to be updated for detailed explanation of the CPU instruction set.
